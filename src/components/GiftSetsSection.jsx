@@ -7,7 +7,7 @@ const GiftSetsSection = () => {
     {
       id: 1,
       name: 'Classic CNY Gift Set',
-      description: 'Includes festive snacks, White Rabbit candy, lucky draw cookie, and premium packaging.',
+      description: 'Festive gift bag with horse keychain, 2026 Red Packets, 2 Da Hong Pao tea leaves, White Rabbit candy, and lucky draw cookie.',
       price: 68,
       image: '/images/Classic CNY Gift Set.png',
       label: 'Most Popular'
@@ -15,14 +15,14 @@ const GiftSetsSection = () => {
     {
       id: 2,
       name: 'Bird\'s Nest Wellness Set',
-      description: 'Classic CNY gift set with 3 bird\'s nest for a healthy and meaningful new year.',
+      description: 'Festive gift bag with horse keychain, 2026 Red Packets, 2 Da Hong Pao tea leaves, White Rabbit candy, lucky draw cookie, plus 3 bird\'s nest.',
       price: 88,
       image: '/images/Bird\'s Nest Wellness Set.png',
     },
     {
       id: 3,
       name: 'Abalone Prosperity Set',
-      description: 'Classic CNY gift set upgraded with 2 premium abalone.',
+      description: 'Festive gift bag with horse keychain, 2026 Red Packets, 2 Da Hong Pao tea leaves, White Rabbit candy, lucky draw cookie, plus 2 abalone.',
       price: 108,
       image: '/images/Abalone Prosperity Set.png',
       label: null
@@ -30,7 +30,7 @@ const GiftSetsSection = () => {
     {
       id: 4,
       name: 'Signature Best Value Set',
-      description: 'Balanced premium gift set with abalone, bird\'s nest, festive treats and elegant packaging.',
+      description: 'Festive gift bag with horse keychain, 2026 Red Packets, 2 Da Hong Pao tea leaves, White Rabbit candy, lucky draw cookie, 1 abalone, and 2 bird\'s nest.',
       price: 118,
       image: '/images/Signature Best Value Set.png',
       label: 'Best Value'
@@ -38,7 +38,7 @@ const GiftSetsSection = () => {
     {
       id: 5,
       name: 'Grand Prosperity Set',
-      description: 'Premium gift set featuring abalone, bird\'s nest, festive treats, and luxury packaging.',
+      description: 'Festive gift bag with horse keychain, 2026 Red Packets, 2 Da Hong Pao tea leaves, White Rabbit candy, lucky draw cookie, premium abalone, and bird\'s nest.',
       price: 138,
       image: '/images/Grand Prosperity Set.png',
       // label: 'Premium'
