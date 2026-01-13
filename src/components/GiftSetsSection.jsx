@@ -15,14 +15,14 @@ const GiftSetsSection = () => {
     {
       id: 2,
       name: 'Bird\'s Nest Wellness Set',
-      description: 'Festive gift bag with horse keychain, 2026 Red Packets, 2 Da Hong Pao tea leaves, White Rabbit candy, lucky draw cookie, plus 3 bird\'s nest.',
+      description: 'Festive gift bag with horse keychain, 2026 Red Packets, 2 Da Hong Pao tea leaves, White Rabbit candy, lucky draw cookie, 3 bird\'s nest.',
       price: 88,
       image: '/images/Bird\'s Nest Wellness Set.png',
     },
     {
       id: 3,
       name: 'Abalone Prosperity Set',
-      description: 'Festive gift bag with horse keychain, 2026 Red Packets, 2 Da Hong Pao tea leaves, White Rabbit candy, lucky draw cookie, plus 2 abalone.',
+      description: 'Festive gift bag with horse keychain, 2026 Red Packets, 2 Da Hong Pao tea leaves, White Rabbit candy, lucky draw cookie, 2 abalone.',
       price: 108,
       image: '/images/Abalone Prosperity Set.png',
       label: null
@@ -89,3 +89,4 @@ const GiftSetsSection = () => {
 };
 
 export default GiftSetsSection;
+
