@@ -7,7 +7,7 @@ const GiftSetsSection = () => {
     {
       id: 1,
       name: 'Classic CNY Gift Set',
-      description: 'Festive gift bag with horse keychain, 2026 Red Packets, 2 Da Hong Pao tea leaves, White Rabbit candy, and lucky draw cookie.',
+      description: 'Festive gift bag with horse keychain, 2026 Red Packets, 2 Da Hong Pao tea leaves, White Rabbit candy, and Fortune stick biscuit.',
       price: 68,
       image: '/images/Classic CNY Gift Set.png',
       label: 'Most Popular'
@@ -15,14 +15,14 @@ const GiftSetsSection = () => {
     {
       id: 2,
       name: 'Bird\'s Nest Wellness Set',
-      description: 'Festive gift bag with horse keychain, 2026 Red Packets, 2 Da Hong Pao tea leaves, White Rabbit candy, lucky draw cookie, 3 bird\'s nest.',
+      description: 'Festive gift bag with horse keychain, 2026 Red Packets, 2 Da Hong Pao tea leaves, White Rabbit candy, Fortune stick biscuit, 3 bird\'s nest.',
       price: 88,
       image: '/images/Bird\'s Nest Wellness Set.png',
     },
     {
       id: 3,
       name: 'Abalone Prosperity Set',
-      description: 'Festive gift bag with horse keychain, 2026 Red Packets, 2 Da Hong Pao tea leaves, White Rabbit candy, lucky draw cookie, 2 abalone.',
+      description: 'Festive gift bag with horse keychain, 2026 Red Packets, 2 Da Hong Pao tea leaves, White Rabbit candy, Fortune stick biscuit, 2 abalone.',
       price: 108,
       image: '/images/Abalone Prosperity Set.png',
       label: null
@@ -30,7 +30,7 @@ const GiftSetsSection = () => {
     {
       id: 4,
       name: 'Signature Best Value Set',
-      description: 'Festive gift bag with horse keychain, 2026 Red Packets, 2 Da Hong Pao tea leaves, White Rabbit candy, lucky draw cookie, 1 abalone, and 2 bird\'s nest.',
+      description: 'Festive gift bag with horse keychain, 2026 Red Packets, 2 Da Hong Pao tea leaves, White Rabbit candy, Fortune stick biscuit, 1 abalone, and 2 bird\'s nest.',
       price: 118,
       image: '/images/Signature Best Value Set.png',
       label: 'Best Value'
@@ -38,7 +38,7 @@ const GiftSetsSection = () => {
     {
       id: 5,
       name: 'Grand Prosperity Set',
-      description: 'Festive gift bag with horse keychain, 2026 Red Packets, 2 Da Hong Pao tea leaves, White Rabbit candy, lucky draw cookie, premium abalone, and bird\'s nest.',
+      description: 'Festive gift bag with horse keychain, 2026 Red Packets, 2 Da Hong Pao tea leaves, White Rabbit candy, lucky draw cookie, 2 abalone, and 3 bird\'s nest.',
       price: 138,
       image: '/images/Grand Prosperity Set.png',
       // label: 'Premium'
@@ -89,4 +89,5 @@ const GiftSetsSection = () => {
 };
 
 export default GiftSetsSection;
+
 
